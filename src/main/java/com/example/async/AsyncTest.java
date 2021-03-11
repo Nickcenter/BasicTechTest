@@ -1,9 +1,9 @@
-package com.example.demo;
+package com.example.async;
 
 /**
  * Created by nick on 2020/9/13.
  */
-public class Test {
+public class AsyncTest {
     public static void main(String[] args) {
 
         MyThread thread = new MyThread();
