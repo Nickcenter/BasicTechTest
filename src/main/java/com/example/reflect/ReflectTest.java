@@ -3,7 +3,12 @@ package com.example.reflect;
 import java.lang.reflect.Method;
 
 /**
- * Created by nick on 2021/3/11.
+ * @Title: 反射测试
+ * @ClassName: com.example.reflect.ReflectTest.java
+ * @Description:
+ * @author: 刘秦川
+ * @date:  2021-08-29 11:37
+ * @version V1.0
  */
 public class ReflectTest {
 
@@ -21,4 +26,5 @@ public class ReflectTest {
         }
 
     }
+
 }
